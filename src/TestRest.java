@@ -11,6 +11,6 @@ public class TestRest {
     @Produces("text/html")
     public String getClichedMessage() {
         // Return some cliched textual content
-        return "<h1>Test Rest</h1>";
+        return "<h1>Test Rest</h1> Configuration and first start";
     }
 }
